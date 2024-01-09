@@ -1,0 +1,5 @@
+while True:
+    number = int(input("Введите число: "))
+    stepen = int(input("Введите его степень: "))
+    otvet = number**stepen
+    print("Ответ: ", otvet)
